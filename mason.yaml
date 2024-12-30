@@ -1,0 +1,4 @@
+bricks:
+  bloc_base_source_cli:
+    git: 
+      url: https://github.com/leetuanbmt/bloc_base_source_cli.git
